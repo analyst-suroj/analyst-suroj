@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-. Data Analysis projects using Excel, Power Bi, and Python.<br>. Beginner-friendly data analysis or business analytics projects.<br>. Improving my Python skills and building real- world dashboards<br>. Python Numpy.<br>. Excel, basic data concepts, and Python learning journey.<br>. I enjoy learning technical skills steps by steps with discipline.<br><br>
+. Data Analysis projects using Excel, Power Bi, and Python.<br>. Beginner-friendly data analysis or business analytics projects.<br>. Improving my Python skills and building real- world dashboards<br>. Python Numpy,Pandas.<br>. Excel, basic data concepts, and Python learning journey.<br>. I enjoy learning technical skills steps by steps with discipline.<br><br>
 
 
 ## 🌐 Socials:
