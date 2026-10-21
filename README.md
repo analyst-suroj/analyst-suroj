@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="header.svg" width="100%" alt="Suroj Karmakar - Business Analytics Student" />
-
+<img src="https://raw.githubusercontent.com/analyst-suroj/analyst-suroj/main/header.svg" width="100%" alt="Suroj Karmakar - Business Analytics Student" />
 <br/>
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-d4af37?style=flat-square&labelColor=0b1426" alt="status" />
