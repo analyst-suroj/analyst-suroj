@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="296" viewBox="0 0 900 296">
+  <defs><pattern id="g" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#1f3358" stroke-width="1"/></pattern></defs>
+  <rect width="900" height="296" rx="12" fill="#0b1426"/>
+  <rect width="900" height="296" rx="12" fill="url(#g)" opacity="0.35"/>
+  <rect x="1" y="1" width="898" height="294" rx="12" fill="none" stroke="#1f3358" stroke-width="2"/>
+  <text x="40" y="38" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#8a9bb8">My analytics journey</text>
+  <line x1="40" y1="226" x2="860" y2="226" stroke="#1f3358" stroke-width="2"/>
+  <path d="M110 205 L285 172 L460 138 L630 104 L795 68" pathLength="1" fill="none" stroke="#d4af37" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1" stroke-dashoffset="1">
+    <animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;0.01;0.52;0.93;1" dur="10s" repeatCount="indefinite"/>
+  </path>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.010;0.050;0.93;1" dur="10s" repeatCount="indefinite"/>
+    <line x1="110" y1="205" x2="110" y2="226" stroke="#1f3358" stroke-width="2" stroke-dasharray="4 4"/>
+    <circle cx="110" cy="205" r="8" fill="#0b1426" stroke="#d4af37" stroke-width="3"/>
+    <text x="110" y="187" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2" font-weight="700" fill="#d4af37">MAY 2025</text>
+    <text x="110" y="252" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e8edf5">Supermarket sales</text>
+    <text x="110" y="272" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8a9bb8">Excel · regression</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.135;0.175;0.93;1" dur="10s" repeatCount="indefinite"/>
+    <line x1="285" y1="172" x2="285" y2="226" stroke="#1f3358" stroke-width="2" stroke-dasharray="4 4"/>
+    <circle cx="285" cy="172" r="8" fill="#0b1426" stroke="#d4af37" stroke-width="3"/>
+    <text x="285" y="154" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2" font-weight="700" fill="#d4af37">JUL 2025</text>
+    <text x="285" y="252" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e8edf5">Kolkata sales</text>
+    <text x="285" y="272" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8a9bb8">Python · Pandas</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.260;0.300;0.93;1" dur="10s" repeatCount="indefinite"/>
+    <line x1="460" y1="138" x2="460" y2="226" stroke="#1f3358" stroke-width="2" stroke-dasharray="4 4"/>
+    <circle cx="460" cy="138" r="8" fill="#0b1426" stroke="#d4af37" stroke-width="3"/>
+    <text x="460" y="120" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2" font-weight="700" fill="#d4af37">AUG 2025</text>
+    <text x="460" y="252" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e8edf5">Food delivery database</text>
+    <text x="460" y="272" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8a9bb8">SQL · MySQL</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.385;0.425;0.93;1" dur="10s" repeatCount="indefinite"/>
+    <line x1="630" y1="104" x2="630" y2="226" stroke="#1f3358" stroke-width="2" stroke-dasharray="4 4"/>
+    <circle cx="630" cy="104" r="8" fill="#0b1426" stroke="#d4af37" stroke-width="3"/>
+    <text x="630" y="86" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2" font-weight="700" fill="#d4af37">OCT–NOV 2025</text>
+    <text x="630" y="252" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e8edf5">Data Science Intern</text>
+    <text x="630" y="272" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8a9bb8">SkillCraft · Remote</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.510;0.550;0.93;1" dur="10s" repeatCount="indefinite"/>
+    <line x1="795" y1="68" x2="795" y2="226" stroke="#1f3358" stroke-width="2" stroke-dasharray="4 4"/>
+    <circle cx="795" cy="68" r="8" fill="#0b1426" stroke="#d4af37" stroke-width="3"/>
+    <text x="795" y="50" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2" font-weight="700" fill="#d4af37">2026</text>
+    <text x="795" y="252" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e8edf5">Deloitte simulation</text>
+    <text x="795" y="272" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8a9bb8">Power BI · DAX · Python</text>
+  </g>
+  
+</svg>

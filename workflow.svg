@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230">
+  <rect width="900" height="230" rx="12" fill="#0b1426"/>
+  <rect x="1" y="1" width="898" height="228" rx="12" fill="none" stroke="#1f3358" stroke-width="2"/>
+  <text x="450" y="32" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic" fill="#8a9bb8">How I work: from raw data to a decision</text>
+  <line x1="90" y1="110" x2="810" y2="110" stroke="#1f3358" stroke-width="3"/>
+  <line x1="90" y1="110" x2="90" y2="110" stroke="#d4af37" stroke-width="3">
+    <animate attributeName="x2" values="90;810;810" keyTimes="0;0.8;1" dur="10s" repeatCount="indefinite"/>
+  </line>
+  <circle cx="90" cy="110" r="28" fill="#12203a" stroke="#d4af37" stroke-width="2">
+      <animate attributeName="fill" values="#12203a;#d4af37;#12203a;#12203a" keyTimes="0;0.001;0.081;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <text x="90" y="118" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="bold" fill="#e8edf5">1
+      <animate attributeName="fill" values="#e8edf5;#0b1426;#e8edf5;#e8edf5" keyTimes="0;0.001;0.081;1" dur="10s" repeatCount="indefinite"/>
+    </text>
+    <text x="90" y="62" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" letter-spacing="3" font-weight="700" fill="#e8edf5">COLLECT</text>
+    <text x="90" y="166" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#d4af37">SQL · MySQL</text>
+    <text x="90" y="188" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8a9bb8">Query the database</text>
+    <circle cx="270" cy="110" r="28" fill="#12203a" stroke="#d4af37" stroke-width="2">
+      <animate attributeName="fill" values="#12203a;#d4af37;#12203a;#12203a" keyTimes="0;0.201;0.281;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <text x="270" y="118" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="bold" fill="#e8edf5">2
+      <animate attributeName="fill" values="#e8edf5;#0b1426;#e8edf5;#e8edf5" keyTimes="0;0.201;0.281;1" dur="10s" repeatCount="indefinite"/>
+    </text>
+    <text x="270" y="62" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" letter-spacing="3" font-weight="700" fill="#e8edf5">CLEAN</text>
+    <text x="270" y="166" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#d4af37">Python · Pandas</text>
+    <text x="270" y="188" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8a9bb8">Fix gaps and duplicates</text>
+    <circle cx="450" cy="110" r="28" fill="#12203a" stroke="#d4af37" stroke-width="2">
+      <animate attributeName="fill" values="#12203a;#d4af37;#12203a;#12203a" keyTimes="0;0.401;0.481;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <text x="450" y="118" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="bold" fill="#e8edf5">3
+      <animate attributeName="fill" values="#e8edf5;#0b1426;#e8edf5;#e8edf5" keyTimes="0;0.401;0.481;1" dur="10s" repeatCount="indefinite"/>
+    </text>
+    <text x="450" y="62" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" letter-spacing="3" font-weight="700" fill="#e8edf5">ANALYZE</text>
+    <text x="450" y="166" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#d4af37">Excel · Python</text>
+    <text x="450" y="188" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8a9bb8">Find trends and patterns</text>
+    <circle cx="630" cy="110" r="28" fill="#12203a" stroke="#d4af37" stroke-width="2">
+      <animate attributeName="fill" values="#12203a;#d4af37;#12203a;#12203a" keyTimes="0;0.601;0.681;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <text x="630" y="118" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="bold" fill="#e8edf5">4
+      <animate attributeName="fill" values="#e8edf5;#0b1426;#e8edf5;#e8edf5" keyTimes="0;0.601;0.681;1" dur="10s" repeatCount="indefinite"/>
+    </text>
+    <text x="630" y="62" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" letter-spacing="3" font-weight="700" fill="#e8edf5">VISUALIZE</text>
+    <text x="630" y="166" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#d4af37">Power BI · DAX</text>
+    <text x="630" y="188" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8a9bb8">Build clear dashboards</text>
+    <circle cx="810" cy="110" r="28" fill="#12203a" stroke="#d4af37" stroke-width="2">
+      <animate attributeName="fill" values="#12203a;#d4af37;#12203a;#12203a" keyTimes="0;0.801;0.881;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <text x="810" y="118" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="bold" fill="#e8edf5">5
+      <animate attributeName="fill" values="#e8edf5;#0b1426;#e8edf5;#e8edf5" keyTimes="0;0.801;0.881;1" dur="10s" repeatCount="indefinite"/>
+    </text>
+    <text x="810" y="62" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" letter-spacing="3" font-weight="700" fill="#e8edf5">DECIDE</text>
+    <text x="810" y="166" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#d4af37">Business insight</text>
+    <text x="810" y="188" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8a9bb8">Turn findings into action</text>
+    
+  <circle cx="90" cy="110" r="7" fill="#d4af37" opacity="0">
+    <animate attributeName="cx" values="90;810;810" keyTimes="0;0.8;1" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.8;0.85;1" dur="10s" repeatCount="indefinite"/>
+  </circle>
+</svg>
