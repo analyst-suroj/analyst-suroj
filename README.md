@@ -42,6 +42,15 @@ I work across the full analytics process: **query** data with SQL, **clean and e
 
 <br/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yalongwastaken/yalongwastaken/main/koi/koi.gif" width="256" alt="The author's koi, redrawn every night from the day's activity" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/bodies-dark.png" />
+  <img src="docs/bodies-light.png" alt="The six bodies, white, black, Asagi, tea, gold, and platinum, at each growth stage" />
+</picture>
+<br/>
 <img src="workflow.svg" width="100%" alt="How I work: collect, clean, analyze, visualize, decide" />
 
 </div>
